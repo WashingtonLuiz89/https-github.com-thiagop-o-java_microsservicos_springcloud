@@ -116,7 +116,3 @@ fabric.properties
 hs_err_pid*
 
 # End of https://www.gitignore.io/api/java,intellij
-*.iml
-.idea/$CACHE_FILE$
-.idea/$PRODUCT_WORKSPACE_FILE$
-*.xml
